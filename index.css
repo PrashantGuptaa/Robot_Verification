@@ -1,0 +1,10 @@
+.images{
+  height: 200px;
+  width: 200px;
+}
+
+#imgContainer{
+width: 600px;
+height: 400px;
+margin: auto;
+}
